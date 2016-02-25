@@ -1,25 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "We're Back! Alright!"
 date:   2016-02-07 15:24:56 -0500
-categories: jekyll update
+categories: show-notes
+author: Gerald Butters
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The Backstreet Boys of podcasting are back. Josh tells a riveting story about icy sidewalks.  Mark proves that he isn’t a movie reviewer.   There is, once again, a lengthy conversation about penises and fellatio for some reason.  Marshall brings up his qualms about Josh and Mark’s ideas of fighting wild animals.  Have you ever Googled the effects of toothpaste on various parts of the body?  Cause we have.  If you’ve ever considered throat punching a random gas station attendant then we’ve got just the stories for you!  Stay tuned next week for more remarkably unnecessary conversations to no one!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/248433036&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
