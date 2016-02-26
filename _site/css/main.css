@@ -31,6 +31,11 @@ ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px; }
 
+h3.post-episode {
+  font-weight: 400;
+  color: #666;
+}
+
 /**
  * Images
  */
