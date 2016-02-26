@@ -11,7 +11,7 @@ layout: default
 
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">{{ post.title }}</h1>
-        <h3 class="post-episode" itemprop="episode">{{ post.episode }}</h3>
+        <h3 class="post-episode" itemprop="episode">S{{ post.season }}E{{ post.episode }}</h3>
         <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p>
       </header>
 
